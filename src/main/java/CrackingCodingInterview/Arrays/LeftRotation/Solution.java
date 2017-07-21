@@ -7,7 +7,7 @@ import java.math.*;
 import java.util.regex.*;
 
 /**
- * Created by khiru
+ * Created by khirul
  * on 7/21/2017.
  */
 public class Solution {
