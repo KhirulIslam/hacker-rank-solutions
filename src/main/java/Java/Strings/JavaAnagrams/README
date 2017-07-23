@@ -4,8 +4,20 @@ Method description :
 
 1. static boolean equals(char[] a, char[] a2)
         This method returns true if the two specified arrays of chars are equal to one another.
-        //todo add description how  equals(char[] a, char[] a2) works
+
+        Arrays.equals method returns true if the two specified arrays of objects are equal
+        to one another.The two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal.Two objects e1 and e2 are considered equal if (e1==null ? e2==null : e1.equals(e2)).The two arrays are equal if they contain the same elements in the same order.Two array references are considered equal if both are null.
 
 2. static void sort(char[] a)
         This method sorts the specified array of chars into ascending numerical order.
-        //todo add description how  sort(char[] a)
+
+
+     Other sort method :
+        Arrays.sort (int [])
+        Arrays.sort (String [])
+        Arrays.sort (float [])
+        Arrays.sort (double [])
+        Arrays.sort (long [])
+        Arrays.sort (Object [])
+        Arrays.sort (Object [], Comparator)
+        Arrays.sort (Object [], int startIndex, int endIndex)
