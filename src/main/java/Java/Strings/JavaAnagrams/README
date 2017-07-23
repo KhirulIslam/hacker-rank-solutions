@@ -1,0 +1,11 @@
+Problem : https://www.hackerrank.com/challenges/java-anagrams
+
+Method description :
+
+1. static boolean equals(char[] a, char[] a2)
+        This method returns true if the two specified arrays of chars are equal to one another.
+        //todo add description how  equals(char[] a, char[] a2) works
+
+2. static void sort(char[] a)
+        This method sorts the specified array of chars into ascending numerical order.
+        //todo add description how  sort(char[] a)
