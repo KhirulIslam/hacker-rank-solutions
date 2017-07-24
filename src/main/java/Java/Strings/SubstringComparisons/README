@@ -1,4 +1,7 @@
 https://www.hackerrank.com/challenges/java-string-compare
 
-Method description :
-//todo add description
+Description :
+    Java TreeSet class implements the Set interface that uses a tree for storage.
+    It inherits AbstractSet class and implements NavigableSet interface.
+    The objects of TreeSet class are stored in ascending order.
+

@@ -13,7 +13,7 @@ public class Solution {
 
     public static String getSmallestAndLargest(String s, int k) {
         String sub="";
-        SortedSet<String> tokens = new TreeSet<String>();
+        TreeSet<String> tokens = new TreeSet<String>();
 
         for(int i=0;i<=s.length()-k;i++){
             sub= s.substring(i,i+k);
