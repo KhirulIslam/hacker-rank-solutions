@@ -1,3 +1,14 @@
 https://www.hackerrank.com/challenges/java-biginteger
 
-Description : //todo add description
+Description :
+   The java.math.BigInteger class provides operations analogues to all of Java's primitive
+   integer operators and for all relevant methods from java.lang.Math
+
+   Constructor :
+      The java.math.BigInteger class provides operations analogues to all of Java's primitive integer operators
+       and for all relevant methods from java.lang.Math
+
+   Method :
+     BigInteger add(BigInteger val) : This method returns a BigInteger whose value is (this + val).
+
+     BigInteger multiply(BigInteger val): This method returns a BigInteger whose value is (this * val).

@@ -1,3 +1,9 @@
 https://www.hackerrank.com/challenges/java-primality-test
 
-Description : //todo add description
+Description :
+    The java.math.BigInteger.isProbablePrime(int certainty) returns true if this BigInteger is probably prime,
+    false if it's definitely composite.
+
+         certainty − a measure of the uncertainty that the caller is willing to tolerate: if the call returns true
+                     the probability that this BigInteger is prime exceeds (1 - 1/2certainty).
+                     The execution time of this method is proportional to the value of this parameter.
