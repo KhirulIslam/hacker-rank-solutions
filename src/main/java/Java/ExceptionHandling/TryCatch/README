@@ -1,0 +1,9 @@
+https://www.hackerrank.com/challenges/java-exception-handling-try-catch
+
+Description :
+            From Java 7 you can catch multiple exceptions using the multi catch syntax.
+
+            example:
+               catch(IOException | SQLException | Exception ex){
+                    //
+               }
