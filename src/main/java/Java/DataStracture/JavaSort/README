@@ -1,0 +1,20 @@
+https://www.hackerrank.com/challenges/java-sort
+
+Description:
+        Collections.sort:
+           Collections class provides static methods for sorting the elements of collection. If collection elements are of Set or Map, we can
+           use TreeSet or TreeMap.But we cannot sort the elements of List. Collections class provides methods for sorting the elements of
+           List type elements also.
+
+
+        Comparator interface
+           Java Comparator interface is used to order the objects of user-defined class.This interface is found in java.util package and
+           contains 2 methods compare(Object obj1,Object obj2) and equals(Object element).
+
+             int compare(Object obj1, Object obj2)
+                    obj1 and obj2 are the objects to be compared. This method returns zero if the objects are equal.
+                    It returns a positive value if obj1 is greater than obj2. Otherwise, a negative value is returned.
+
+              boolean equals(Object obj)
+                    obj is the object to be tested for equality.The method returns true if obj and the invoking object are both
+                    Comparator objects and use the same ordering. Otherwise, it returns false.
