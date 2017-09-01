@@ -1,4 +1,4 @@
-package Contest.WeekOfCode33;
+package Contest.WeekOfCode33.PatternCount;
 
 import java.io.*;
 import java.util.*;
