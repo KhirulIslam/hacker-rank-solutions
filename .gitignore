@@ -13,7 +13,6 @@
 .idea/**
 .idea/**/tasks.xml
 .idea/dictionaries
-
 # Sensitive or high-churn files:
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -50,7 +49,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 ### Gradle template
-.gradle
+*.gradle
 /build/
 
 # Ignore Gradle GUI config
